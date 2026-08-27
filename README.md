@@ -133,7 +133,7 @@ A **CRUD Notes REST API** built using **Node.js + Express**, with **JWT-based au
 <div align="center">
 
 <a href="https://www.instagram.com/_nirmalyaa/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-_%20nirmalyaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-__%20nirmalyaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="https://github.com/NirmalyaHati" target="_blank">
