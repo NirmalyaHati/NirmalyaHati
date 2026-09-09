@@ -149,7 +149,7 @@ I don't just want to learn how things work — **I want to understand them well 
 I'm always interested in **learning, building, collaborating and getting real-world experience**.
 
 - 🐙 [GitHub](https://github.com/NirmalyaHati)
-- 📸 [Instagram](https://www.instagram.com/__nirmalya/)
+- 📸 [Instagram](https://www.instagram.com/__nirmalyaa/)
 
 ---
 
