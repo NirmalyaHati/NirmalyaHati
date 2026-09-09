@@ -2,124 +2,125 @@
 
 # 👋 Hi, I'm Nirmalya Hati!
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech+Electronics+and+Computer+Engg+Student;Learning+Python%2C+C%2C+C%2B%2B+%26+Java;Exploring+AI+%26+Machine+Learning;Building+Backend+%26+API+Projects;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing SVG" />
+### B.Tech Electronics & Computer Engineering Student | Developer in Progress
 
-<br>
+I'm a first-year B.Tech student at SRM University, building my foundation in **Python, C, C++, Java, JavaScript and backend development**.
 
-<img src="https://komarev.com/ghpvc/?username=NirmalyaHati&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+I learn best by building real projects, breaking things, fixing them, and turning each project into a better version of the last one.
+
+[![GitHub](https://img.shields.io/badge/GitHub-NirmalyaHati-181717?style=for-the-badge&logo=github)](https://github.com/NirmalyaHati)
+[![Profile Views](https://komarev.com/ghpvc/?username=NirmalyaHati&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/NirmalyaHati)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-🎓 **B.Tech Electronics And Computer Engineering  Student**
-
-🌱 Currently learning **Python, C, C++ & Java**
-
-🤖 Exploring **Artificial Intelligence & Machine Learning**
-
-🌐 Learning **Backend Development & REST APIs**
-
-🔐 Interested in **Cybersecurity & secure application development**
-
-🚀 Learning by building real-world projects
+- 🎓 First-year **B.Tech Electronics & Computer Engineering** student at SRM University
+- 💻 Currently learning **Python, C, C++, Java and JavaScript**
+- 🔧 Building projects around **web development, REST APIs and backend engineering**
+- 🤖 Exploring **AI, machine learning and practical automation**
+- 🔐 Interested in **cybersecurity and secure application development**
+- 🐳 Learning **Docker, deployment and modern development workflows**
+- 🌱 My approach: **Learn → Build → Break → Debug → Improve**
 
 ---
 
-# ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🌐 Backend
+### Backend & Web
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### 🛠️ Tools
+### Tools & Workflow
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
----
-
-# 🚀 Featured Project
-
-## 📝 Notes API
-
-A **CRUD Notes REST API** built using **Node.js + Express**, with **JWT-based authentication**.
-
-### ✨ Features
-
-* 🔐 User registration
-* 🔑 JWT authentication
-* 🛡️ Protected routes
-* 📝 Create notes
-* 📖 Read notes
-* ✏️ Update notes
-* 🗑️ Delete notes
-* ⚙️ Express middleware
-
-### 🧰 Technologies
-
-`JavaScript` `Node.js` `Express.js` `JWT` `REST API`
-
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-36BCF7?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/NirmalyaHati/notes-api)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-# 📊 GitHub Statistics
+## 🌟 Featured Projects
 
-<div align="center">
+### 🔎 GitHub Explorer
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=NirmalyaHati&show_icons=true&theme=tokyonight&hide_border=true" alt="Nirmalya's GitHub Stats" />
+A responsive web app that searches GitHub users and displays profile information plus their five most recently updated public repositories.
 
-<br><br>
+**Built with:** HTML · CSS · JavaScript · GitHub REST API
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NirmalyaHati&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+**What I practiced:**
+- Working with third-party REST APIs
+- Async JavaScript with `fetch`, `async/await` and `Promise.all`
+- Loading and error states
+- Safe DOM updates and user input handling
+- Responsive and accessible UI design
 
-</div>
-
----
-
-# 🧠 Currently Learning
-
-* 🐍 Python
-* 💻 C & C++
-* 🤖 Machine Learning
-* 🧠 Artificial Intelligence
-* 🌐 Backend Development
-* 🔐 Application Security
-* 🐳 Docker
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/NirmalyaHati/github-profile-searcher)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github-profile-searcher-psi.vercel.app)
 
 ---
 
-# 🎯 2026 Goals
+### 📝 Notes API
 
-* [ ] 🐍 Become strong in Python
-* [ ] 💻 Improve C & C++ fundamentals
-* [ ] 🤖 Build serious ML projects
-* [ ] 🧠 Learn Machine Learning fundamentals
-* [ ] 🌐 Build more backend APIs
-* [ ] 🔐 Learn application security
-* [ ] 🐳 Learn Docker
-* [ ] 🚀 Deploy a project
-* [ ] 🌎 Contribute to open source
+A CRUD REST API built with Node.js and Express, featuring JWT-based authentication and protected note routes.
+
+**Built with:** Node.js · Express.js · JWT · bcryptjs · REST API
+
+**What I practiced:**
+- REST API design and CRUD operations
+- User registration and authentication
+- Password hashing with bcrypt
+- JWT middleware and protected routes
+- Environment variables and API structure
+
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/NirmalyaHati/notes-api)
+
+> 🔨 **Next upgrade:** PostgreSQL persistence, automated tests, CI, stronger validation and production-focused security.
 
 ---
 
-# 💭 Developer Mindset
+## 📚 Currently Learning
+
+- 🐍 Python and problem solving
+- 💻 C & C++ fundamentals
+- ☕ Java fundamentals
+- 🌐 Backend development and REST APIs
+- 🤖 Machine Learning & Artificial Intelligence
+- 🔐 Application security and cybersecurity fundamentals
+- 🐳 Docker and deployment
+- 🧪 Testing, CI/CD and production development practices
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] Become strong in Python
+- [ ] Improve C and C++ fundamentals
+- [ ] Build a serious full-stack project
+- [ ] Build practical AI/ML projects
+- [ ] Build more production-quality backend APIs
+- [ ] Learn application security fundamentals
+- [ ] Learn Docker and deployment workflows
+- [ ] Contribute to open source
+- [ ] Deploy multiple projects publicly
+
+---
+
+## 🧠 Developer Mindset
 
 <div align="center">
 
@@ -127,32 +128,34 @@ A **CRUD Notes REST API** built using **Node.js + Express**, with **JWT-based au
 
 </div>
 
+I don't just want to learn how things work — **I want to understand them well enough to build them.**
+
 ---
 
-# 🤝 Let's Connect
+## 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://www.instagram.com/__nirmalyaa/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-__nirmalyaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=NirmalyaHati&show_icons=true&hide_border=true&theme=tokyonight" alt="Nirmalya's GitHub stats" />
 
-<a href="https://github.com/NirmalyaHati" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-NirmalyaHati-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="mailto:hatinirmalya@gmail.com">
-  <img src="https://img.shields.io/badge/Email-hatinirmalya%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NirmalyaHati&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 
 </div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in **learning, building, collaborating and getting real-world experience**.
+
+- 🐙 [GitHub](https://github.com/NirmalyaHati)
+
 ---
 
 <div align="center">
 
-### ⚡ "I don't just want to learn how things work — I want to build them."
+### 💡 Building today. Improving tomorrow.
 
-⭐ **Thanks for visiting my profile!**
+**Thanks for visiting my profile! 🚀**
 
 </div>
-
